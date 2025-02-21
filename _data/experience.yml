@@ -1,12 +1,22 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
+    degreepath: M.S in journalism # for type.education.
+    institution: Jinan University
+    department: Journalism and communication
+    advisors: Yalan Huang # for type.education.
+    thesis: "Orange Umbrella" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2019 - 2021
+    notes: 
+
+    
+  - type: education
+    degreepath: M.S in media # for type.education.
+    institution: Indiana University
+    department: Media
+    advisors: Dr.Sarge # for type.education.
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    years: 2023 - 2025
     notes: In Progress
     
   - type: job
