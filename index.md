@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Di Cui is a graduate student at Media School at IU.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Computer Vision:** visual design
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 - **Digital Health Humanities:** I do things.
 
